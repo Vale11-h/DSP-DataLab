@@ -67,7 +67,7 @@ Un SNR más alto indica una mejor calidad de la señal, ya que significa que la 
 
 >*Cálculo de SNR para posterior análisis*
 
-## Gráficas y análisis de la señal contaminada.
+### Gráficas y análisis de la señal contaminada.
 
 • **Ruido Gaussiano:**  Es un tipo de interferencia que sigue una distribución estadística normal. Se caracteriza por su forma de curva simétrica en torno a la media, similar a una campana. Al analizar las gráficas adjuntas, se observa cómo el ruido se superpone a la señal original y, en un segundo caso, cómo el ruido amplificado domina completamente a la señal.
 
@@ -124,21 +124,22 @@ En la primera representación gráfica, se observa la interferencia de origen in
 
 • Se usó Python y un compilador (en este caso, Google Colab).
 
-### Requisitos
+## Requisitos
 
 • Tener Python 3.9 instalado y utilizar Google Colab (o cualquier compilador compatible).
 • Tener acceso a los archivos .dat y .hea para cargar en Google Colab o el compilador elegido.
 • Contar con las librerías necesarias instaladas para ejecutar el código correctamente (especificadas en el inicio del artículo).
 
-### Usar
+## Usar
 
 Por favor, cite este artículo:
 
 Huertas, V.; Ramírez, P.; Delgado, A. Análisis estadístico de la señal. 6 de febrero de 2025.
 
-### Información de contacto
+## Información de contacto
 
 • est.laurav.huertas@unimilitar.edu.co
 • est.deisy.ramirez@unimilitar.edu.co
 • est.paulav.gomez@unimilitar.edu.co
 
+## Referencias
