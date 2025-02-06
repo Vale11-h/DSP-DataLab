@@ -110,12 +110,20 @@ En la primera representación gráfica, se observa la interferencia de origen in
 **1. Extracción de datos:**
 
 • Se extrajeron dos conjuntos de datos desde la unidad: .dat y .hea
-•Los datos fueron descargados de la fuente original (Physionet) y transferidos a Google Colab.
+
+• Los datos fueron descargados de la fuente original (Physionet) y transferidos a Google Colab.
 
 **2. Proceso de análisis:**
 
 • La señal se descargó y se llevó a Colab para su procesamiento.
+
 • Todo el análisis se realizó mediante código, lo que permitió evaluar los datos de manera precisa.
+
+###### - Se carga la señal usando wfdb.rdrecord(), y se extraen los datos de la señal en signal_data.
+###### - Se genera una gráfica para mostrar la señal original utilizando matplotlib.
+###### - Se calculan métricas como la media, la desviación estándar y el coeficiente de variación de los datos. Estos cálculos se realizan tanto de manera predefinida con numpy como manualmente para reforzar la comprensión de los métodos.
+###### - Se calcula el histograma y función de probabilidad tanto manualmente como utilizando la función predefinida para visualizar la distribución de los valores.
+###### - Se genera un ruido gaussiano, de impulso y artefcato, y se agrega a la señal original. Luego, se calcula el Signal-to-Noise Ratio (SNR).
 
 ***Nota importante: Cada vez que abras el archivo en Google Colab, será necesario cargar nuevamente el archivo de datos. Una vez cargado, podrás acceder al análisis estadístico realizado de dos maneras diferentes, según lo detallado en el código.***
 
@@ -131,7 +139,9 @@ En la primera representación gráfica, se observa la interferencia de origen in
 ## Requisitos
 
 • Tener Python 3.9 instalado y utilizar Google Colab (o cualquier compilador compatible).
+
 • Tener acceso a los archivos .dat y .hea para cargar en Google Colab o el compilador elegido.
+
 • Contar con las librerías necesarias instaladas para ejecutar el código correctamente (especificadas en el inicio del artículo).
 
 ## Usar
