@@ -52,9 +52,13 @@ Luego se procedió a calcular los estadísticos descriptivos de dos diferentes m
 
 ### Contaminación de la señal y SNR.
 
-Para esta parte del laboratorio, se debe contaminar la señal con tres tipos de ruido y hacer el cálculo del SNR (Signal-to-Noise Ratio) de cada uno, teniendo en cuenta que éste se define como la relación entre la potencia de la señal que se quiere recibir o procesar (la señal útil) y la potencia del ruido no deseado (el ruido que interfiere con esa señal).
+[^1^] Para esta parte del laboratorio, se debe contaminar la señal con tres tipos de ruido y hacer el cálculo del SNR (Signal-to-Noise Ratio) de cada uno, teniendo en cuenta que éste se define como la relación entre la potencia de la señal que se quiere recibir o procesar (la señal útil) y la potencia del ruido no deseado (el ruido que interfiere con esa señal).
 
-En otras palabras, compara cuánta "información útil" (la señal) se tiene frente a cuánta "interferencia" (el ruido) está presente. El **Signal-to-Noise Ratio (SNR)** se mide en decibeles y se calcula usando la siguiente fórmula:
+[^1^]: MENDOZA REYES, Miguel A; LORENZO GINORI, Juan V  y  TABOADA CRISPI, Alberto. Clasificación de señales electrocardiográficas contaminadas con ruido mediante representaciones tiempofrecuencia. uct [online]. 2005, vol.9, n.35 [citado  2025-02-06], pp.125-131. Disponible en: <http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S1316-48212005000300003&lng=es&nrm=iso>. ISSN 1316-4821.
+
+En otras palabras, compara cuánta "información útil" (la señal) se tiene frente a cuánta "interferencia" (el ruido) está presente. El **Signal-to-Noise Ratio (SNR)** se mide en decibeles y se calcula usando la siguiente fórmula: [^2^]
+
+[^2^]: Arnder LL, Shattuck MD, Black RD. Signal-to-noise ratio comparison between surface coils and implanted coils. Magn Reson Med. 1996 May;35(5):727-33. doi: 10.1002/mrm.1910350514. PMID: 8722824.
 
 $$
 SNR = 10 \times \log_{10} \left(\frac{P_{\text{señal}}}{P_{\text{ruido}}}\right)
@@ -142,9 +146,3 @@ Huertas, V.; Ramírez, P.; Delgado, A. Análisis estadístico de la señal. 6 de
 • est.deisy.aramirez@unimilitar.edu.co
 • est.paulav.gomez@unimilitar.edu.co
 
-## Referencias
-
-•  MENDOZA REYES, Miguel A; LORENZO GINORI, Juan V  y  TABOADA CRISPI, Alberto. Clasificación de señales electrocardiográficas contaminadas con ruido mediante representaciones tiempofrecuencia. uct [online]. 2005, vol.9, n.35 [citado  2025-02-06], pp.125-131. Disponible en: <http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S1316-48212005000300003&lng=es&nrm=iso>. ISSN 1316-4821.
-
-
-• REYES DIAZ, Flavio J.; ROBLE GUTIERREZ, Alejandro; HERNANDEZ SIERRA, Gabriel  y  CALVO DE LARA, José Ramón. Filtrado wiener para la reducción de ruido en la verificación de locutores. Rev cuba cienc informat [online]. 2018, vol.12, n.3 [citado  2025-02-06], pp. 152-162 . Disponible en: <http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2227-18992018000300011&lng=es&nrm=iso>. ISSN 2227-1899.
