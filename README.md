@@ -139,7 +139,12 @@ Huertas, V.; Ramírez, P.; Delgado, A. Análisis estadístico de la señal. 6 de
 ## Información de contacto
 
 • est.laurav.huertas@unimilitar.edu.co
-• est.deisy.ramirez@unimilitar.edu.co
+• est.deisy.aramirez@unimilitar.edu.co
 • est.paulav.gomez@unimilitar.edu.co
 
 ## Referencias
+
+•  MENDOZA REYES, Miguel A; LORENZO GINORI, Juan V  y  TABOADA CRISPI, Alberto. Clasificación de señales electrocardiográficas contaminadas con ruido mediante representaciones tiempofrecuencia. uct [online]. 2005, vol.9, n.35 [citado  2025-02-06], pp.125-131. Disponible en: <http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S1316-48212005000300003&lng=es&nrm=iso>. ISSN 1316-4821.
+
+
+• REYES DIAZ, Flavio J.; ROBLE GUTIERREZ, Alejandro; HERNANDEZ SIERRA, Gabriel  y  CALVO DE LARA, José Ramón. Filtrado wiener para la reducción de ruido en la verificación de locutores. Rev cuba cienc informat [online]. 2018, vol.12, n.3 [citado  2025-02-06], pp. 152-162 . Disponible en: <http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2227-18992018000300011&lng=es&nrm=iso>. ISSN 2227-1899.
